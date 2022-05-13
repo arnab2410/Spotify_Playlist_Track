@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SpotifyGetTrack" max_length="40" name="x_759150_spotify_spotifygettrack" type="collection">
+        <element label="Album HREF" max_length="2000" name="album_href" type="string"/>
+        <element label="Album Name" max_length="255" name="album_name" type="string"/>
+        <element label="Album Release Date" max_length="40" name="album_release_date" type="glide_date"/>
+        <element label="Album Total Track" max_length="40" name="album_total_track" type="integer"/>
+        <element label="Album URI" max_length="1000" name="album_uri" type="string"/>
+        <element label="Artist Album Type" max_length="255" name="artist_album_type" type="string"/>
+        <element label="Artist ID" max_length="255" name="artist_id" type="string"/>
+        <element label="Artist IsExplicit" max_length="10" name="artist_isexplicit" type="string"/>
+        <element label="Artist Name" max_length="255" name="artist_name" type="string"/>
+        <element label="Artist URI" max_length="1000" name="artist_uri" type="string"/>
+        <element label="Market" max_length="40" name="market" type="string"/>
+        <element label="Track HREF" max_length="2000" name="track_href" type="string"/>
+        <element label="Track ID" max_length="255" name="track_id" type="string"/>
+        <element label="Track Name" max_length="255" name="track_name" type="string"/>
+        <element label="Track Number" max_length="40" name="track_number" type="integer"/>
+        <element label="Track Popularity" max_length="40" name="track_popularity" type="string"/>
+        <element label="Track URI" max_length="1000" name="track_uri" type="string"/>
+    </element>
+</database>

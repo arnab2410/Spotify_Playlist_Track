@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="artist_isexplicit" label="Artist IsExplicit" language="en" table="x_759150_spotify_spotifygettrack">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>artist_isexplicit</element>
+            <help/>
+            <hint/>
+            <label>Artist IsExplicit</label>
+            <language>en</language>
+            <name>x_759150_spotify_spotifygettrack</name>
+            <plural>Artist IsExplicits</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-13 17:16:59</sys_created_on>
+            <sys_id>28332bf71b5f0510b86942e4cc4bcb10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Artist IsExplicit</sys_name>
+            <sys_package display_value="Spotify" source="x_759150_spotify">b00540331b17c110b86942e4cc4bcb94</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Spotify">b00540331b17c110b86942e4cc4bcb94</sys_scope>
+            <sys_update_name>sys_documentation_x_759150_spotify_spotifygettrack_artist_isexplicit_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-13 17:16:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

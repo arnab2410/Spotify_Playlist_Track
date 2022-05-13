@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SpotifyPlaylist" max_length="40" name="x_759150_spotify_spotifyplaylist" sizeclass="1" type="collection">
+        <element label="collaborative" max_length="10" name="collaborative" type="string"/>
+        <element label="Display name" max_length="255" name="display_name" type="string"/>
+        <element label="name" max_length="500" name="name" type="string"/>
+        <element display="true" label="owner" max_length="255" name="owner" type="string"/>
+        <element label="totaltracks" max_length="10" name="totaltracks" type="string"/>
+        <element label="type" max_length="255" name="type" type="string"/>
+        <element label="uri" max_length="40" name="uri" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD6ee560ffd9d7c1108e5bc7213cedbc72</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>b00540331b17c110b86942e4cc4bcb94</scope_name>
+        <serialized_content>{"FlowDesigner:FD6ee560ffd9d7c1108e5bc7213cedbc72":{},"FlowDesigner:FD6ee560ffd9d7c1108e5bc7213cedbc72.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD6ee560ffd9d7c1108e5bc7213cedbc72\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"response_body\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"3997f088-76d5-469a-bad7-453da9812c30\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-13 03:30:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>62e560ff1bd7c110b86942e4cc4bcb73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD6ee560ffd9d7c1108e5bc7213cedbc72</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Spotify" source="x_759150_spotify">b00540331b17c110b86942e4cc4bcb94</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Spotify">b00540331b17c110b86942e4cc4bcb94</sys_scope>
+        <sys_update_name>sys_complex_object_62e560ff1bd7c110b86942e4cc4bcb73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-13 03:30:00</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

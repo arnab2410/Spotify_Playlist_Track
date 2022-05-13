@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-13 02:03:46</sys_created_on>
+        <sys_id>db22187b1b57c110b86942e4cc4bcb8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_759150_spotify_spotifyplaylist.x_759150_spotify.spotifyplaylist_user</sys_name>
+        <sys_package display_value="Spotify" source="x_759150_spotify">b00540331b17c110b86942e4cc4bcb94</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Spotify">b00540331b17c110b86942e4cc4bcb94</sys_scope>
+        <sys_security_acl display_value="x_759150_spotify_spotifyplaylist">9f22187b1b57c110b86942e4cc4bcb89</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_db22187b1b57c110b86942e4cc4bcb8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-13 02:03:46</sys_updated_on>
+        <sys_user_role display_value="x_759150_spotify.spotifyplaylist_user" name="x_759150_spotify.spotifyplaylist_user">8f22dc771b57c110b86942e4cc4bcb0e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
